@@ -1,0 +1,1 @@
+// Constant definitions moved to App.tsx for better local visibility in this simple app.

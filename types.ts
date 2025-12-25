@@ -1,0 +1,1 @@
+// File removed to simplify the app as requested.
